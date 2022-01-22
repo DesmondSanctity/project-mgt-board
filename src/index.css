@@ -16,4 +16,5 @@ code {
   background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(https://source.unsplash.com/random/1280x720?wallpaper,nature);
   background-size: cover;
   background-position: center;
+  opacity: 0.5;
 }
