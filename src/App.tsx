@@ -59,7 +59,7 @@ function App() {
   return (
     <div className={`App flex flex-col bg-random-image min-h-screen ${darkMode ? "dark" : ""}`}>
       <Header 
-        title="Trello Board"
+        title="Project Mgt. Board"
         darkMode={darkMode}
         toggleDarkMode={() => setDarkMode(prev => !prev)} 
       />

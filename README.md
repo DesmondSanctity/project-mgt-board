@@ -1,5 +1,5 @@
 # [Project Mgt. Board](project-mgt-board.netlify.app/) 📌
-A Trelloboard to help manage and visualize your project workload & progress with a simple & pretty interface (basically a trello clone).
+A Project Mgt. Board to help manage and visualize your project workload & progress with a simple & pretty interface (basically a trello clone).
 
 **Demo:** [project-mgt-board.netlify.app/](project-mgt-board.netlify.app/)
 
