@@ -1,7 +1,7 @@
-# [Trello Board](https://trelloboard.pages.dev/) 📌
+# [Project Mgt. Board](project-mgt-board.netlify.app/) 📌
 A Trelloboard to help manage and visualize your project workload & progress with a simple & pretty interface (basically a trello clone).
 
-**Demo:** [https://trelloboard.pages.dev/](https://trelloboard.pages.dev/)
+**Demo:** [project-mgt-board.netlify.app/](project-mgt-board.netlify.app/)
 
 **Screenshot (light):**
 ![Light theme](https://i.ibb.co/Scq0dDb/Screenshot-from-2021-12-11-12-33-58.png)
@@ -28,7 +28,7 @@ A Trelloboard to help manage and visualize your project workload & progress with
 ## Build yourself
 1. Clone this repo
 ```bash
-git clone https://github.com/nimone/trelloboard && cd trelloboard
+git clone https://github.com/DesmondSanctity/project-mgt-board && cd project-mgt-board
 ```
 2. Install project dependecies
 ```bash
